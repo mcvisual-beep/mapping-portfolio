@@ -1,0 +1,73 @@
+/*!
+ * Start Bootstrap - Heroic Features (https://startbootstrap.com/template-overviews/heroic-features)
+ * Copyright 2013-2017 Start Bootstrap
+ * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-heroic-features/blob/master/LICENSE)
+ */
+
+ h1 {
+  Font-Family: 'Work Sans', Sans-Serif;
+  Font-Size: 60px;
+  
+ }
+
+ h2 {
+  Font-Family: 'Work Sans', Sans-Serif;
+  Font-Size: 45px;
+
+ }
+
+ h3{
+  Font-Family: 'Work Sans', Sans-Serif;
+  Font-Size: 45px;
+
+ }
+
+ h4 {
+  Font-Family: 'Work Sans', Sans-Serif;
+  Font-Size: 45px;
+  
+ }
+
+ p {
+
+  Font-Family: 'Open Sans', Sans-Serif;
+  Font-Size: 15px;
+ }
+
+ body {
+  Font-Family: 'Work Sans', Sans-Serif;
+Font-Size: 45px;
+Font-Family: 'Open Sans', Sans-Serif;
+Font-Size: 15px;
+}
+
+header {
+  padding: 154px 0 100px;
+}
+
+/* media query when the media is wider than 992px */
+@media (min-width: 992px) {
+  header {
+    padding: 154px 0 100px;
+    background-image:url("https://images.unsplash.com/photo-1502700807168-484a3e7889d0?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjQzMzEwfQ&auto=format&fit=crop&w=1353&q=80");
+    background-size:cover;
+    box-shadow:inset 0 0 0 2000px rgba(70, 0, 150, 0.212);
+    text-shadow:rgba(70, 0, 150, 0.212);
+  }
+}
+
+.portfolio-item {
+  margin-bottom: 30px;
+}
+
+section {
+  padding: 80px 0;
+}
+
+a {
+  color: rgb(223, 203, 248);
+  font-display: unset;
+  Font-Family: 'Work Sans', Sans-Serif;
+ 
+  
+}
